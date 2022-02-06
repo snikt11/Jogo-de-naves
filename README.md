@@ -1,1 +1,1 @@
-<h1>Jogo de naves</h1>
+<h1 text-color black>Jogo de Naves</h1>
