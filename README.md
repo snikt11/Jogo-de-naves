@@ -1,2 +1,6 @@
-<h1 text-color: blue>Jogo de Naves</h1>
-![Naves](https://github.com/snikt11/Jogo-de-naves/blob/fbc8183ef52eb5326aa3062bcd364397a166feb8/naves.gif)
+<h1 align="center">Jogo de Naves 🚁</h1>
+<h3 align="center">Projeto referente ao Bootcamp MRV Fullstack Developer</h3>
+<hr/>
+<p align="center">
+<img src="/naves.gif">
+</p>
