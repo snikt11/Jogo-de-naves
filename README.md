@@ -10,4 +10,4 @@
 <li>CSS3</li> 
 <li>JavaScript</li>
 <h2 align="center">Link para jogar 🔗</h2>
-<li>[Jogar](https://snikt11.github.io/Jogo-de-naves/)</li>
+<li><a href="https://snikt11.github.io/Jogo-de-naves/" title= "Jogar">JOGAR</a></li>
